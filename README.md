@@ -1,14 +1,13 @@
-# **VIMRC**
+# VIMRC
 My super hiper vim config
 
-# Vundle Installation
-https://github.com/VundleVim/Vundle.vim
+## Vundle Installation
+[vundle on github](https://github.com/VundleVim/Vundle.vim)
 
-# You Complete Me Install&Config
-https://github.com/Valloric/YouCompleteMe#ubuntu-linux-x64
-(for Ubuntu x64)
+## You Complete Me Install&Config
+[YCM for Ubuntu x64 config](https://github.com/Valloric/YouCompleteMe#ubuntu-linux-x64)
 
-#Plugins List
+## Plugins List
 * Vundle
 * SimplyFold
 * indentpython
